@@ -1,0 +1,15 @@
+2020-01-13 15:32:53 DEBUG - Server started!
+2020-01-13 15:50:07 DEBUG - Server started!
+2020-01-13 15:54:40 DEBUG - Server started!
+2020-01-13 15:55:50 INFO  - New client connected!
+2020-01-13 15:55:50 INFO  - Authorization for user ivan successful
+2020-01-13 15:55:50 INFO  - Users: [ivan]
+2020-01-13 15:56:28 INFO  - New client connected!
+2020-01-13 15:56:28 INFO  - Authorization for user gaga successful
+2020-01-13 15:56:28 INFO  - Users: [gaga, ivan]
+2020-01-13 15:56:37 INFO  - Message from user gaga:  /w ivan Ваня, привет!
+2020-01-13 15:56:50 INFO  - Message from user ivan:  /w gaga Привет!
+2020-01-13 15:56:55 DEBUG - Client ivan disconnected
+2020-01-13 15:56:55 INFO  - Users: [gaga]
+2020-01-13 15:56:56 DEBUG - Client gaga disconnected
+2020-01-13 15:56:56 INFO  - Users: []
